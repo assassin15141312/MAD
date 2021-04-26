@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/s1"
+        android:icon="@android:drawable/btn_dialog"
+        android:title="Thu chi"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/s2"
+        android:icon="@android:drawable/btn_dialog"
+        android:title="Thống kê"/>
+
+    <item android:title="Ví tiền"
+        android:icon="@android:drawable/btn_dialog"
+        android:id="@+id/s3"/>
+
+    <item android:title="Cài đặt"
+        android:icon="@android:drawable/btn_dialog"
+        android:id="@+id/s4"/>
+</menu>
